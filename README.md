@@ -2,12 +2,9 @@
 IP locator is a Python script to get IP geolocation data.
 
 ## Usage
-Install `requests`, `sockets`, `ipaddress` and `prettytable` Python module using below-mentioned commands if they are not installed already.
+Install `requests`, `sockets`, `ipaddress` and `prettytable` Python module using below-mentioned command if they are not installed already.
 ```bash
-pip3 install requests 
-pip3 install sockets
-pip3 install ipaddress
-pip3 install prettytable
+pip3 install -r requirements.txt 
 ```
 Run the script
 ```bash

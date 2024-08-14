@@ -1,0 +1,4 @@
+requests
+sockets
+ipaddress
+prettytable
